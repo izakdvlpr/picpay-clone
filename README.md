@@ -55,6 +55,6 @@ The project itself was created in order to implement my knowledge learned using 
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2020-present, zevdvlpr.</sub>
-  <p>PicPay UI Clone <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
+  <p>PicPay UI Clone <a href="https://github.com/zevdvlpr/picpay-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
   <img src="./.github/logo.png" width="35" />
 </div>
