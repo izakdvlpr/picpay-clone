@@ -27,7 +27,8 @@ The project itself was created in order to implement my knowledge learned using 
 
 # Techs
 
- - [React Native com Expo](https://expo.io)
+ - [React Native](https://reactnative.dev/)
+ - [Expo](https://expo.io/)
  - [Styled Components](https://styled-components.com/)
  - [TypeScript](https://www.typescriptlang.org/)
 
